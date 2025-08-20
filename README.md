@@ -96,16 +96,14 @@ GUIDE RÁPIDO
 
 ## 📈 Métricas (autoatualizadas)
 
-> Substitua `USERNAME` nas URLs abaixo.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayrongermann&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayrongermann&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayrongermann&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ---
@@ -115,7 +113,7 @@ GUIDE RÁPIDO
 <details>
   <summary>🏆 Troféus</summary>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mayrongermann&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
   </p>
 </details>
 
@@ -123,8 +121,8 @@ GUIDE RÁPIDO
   <summary>🗂 Repos favoritos</summary>
 
 * [finance-tracker](https://github.com/USERNAME/finance-tracker) – app de finanças pessoais.
-* [freelancer-app](https://github.com/USERNAME/freelancer-app) – marketplace de serviços.
-* [datalab-ml](https://github.com/USERNAME/datalab-ml) – notebooks de ML.
+* [freelancer-app](https://github.com/mayrongermann/freelancer-app) – marketplace de serviços.
+* [datalab-ml](https://github.com/mayrongermann/datalab-ml) – notebooks de ML.
 
 </details>
 
@@ -137,17 +135,6 @@ GUIDE RÁPIDO
 
 </details>
 
----
-
-### 🧭 Como usar este template
-
-1. Crie um repositório **público** com o **mesmo nome do seu usuário** GitHub (`USERNAME`).
-2. Crie/cole este arquivo como `README.md` na raiz do repositório.
-3. Substitua os placeholders (USERNAME, YOUR\_NAME, etc.).
-4. Fixe (Pin) seus repositórios principais e adicione **prints/GIFs** nos projetos.
-5. (Opcional) Ative o **GitHub Pages** em um repositório de portfólio e linke aqui.
-
----
 
 <p align="center">
   <sub>Feito com 💙 e foco em clareza, consistência e evolução contínua.</sub>
