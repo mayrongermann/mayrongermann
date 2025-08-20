@@ -57,32 +57,21 @@ GUIDE RÁPIDO
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript) ![Python](https://img.shields.io/badge/Python-000?logo=python) ![SQL](https://img.shields.io/badge/SQL-000)
 
 **Front-end:**
-![React](https://img.shields.io/badge/React-000?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) ![Vite](https://img.shields.io/badge/Vite-000?logo=vite)
+![React](https://img.shields.io/badge/React-000?logo=react) ![Vite](https://img.shields.io/badge/Vite-000?logo=vite)
 
 **Back-end:**
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-000) ![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-000?logo=docker) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?logo=rabbitmq)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-000) ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 
 **Banco & Dados:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase) ![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-000?logo=scikitlearn)
 
 **Qualidade & DevOps:**
-![Jest](https://img.shields.io/badge/Jest-000?logo=jest) ![PyTest](https://img.shields.io/badge/PyTest-000) ![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions) ![ESLint](https://img.shields.io/badge/ESLint-000?logo=eslint) ![Prettier](https://img.shields.io/badge/Prettier-000?logo=prettier)
-
----
-
-## 📚 Conteúdos & Estudos
-
-* **Artigos/Notas:** [link 1](https://YOUR_PORTFOLIO_URL/blog) • [link 2](https://YOUR_PORTFOLIO_URL/notas)
-* **Talks/Apresentações:** [link 1](https://YOUR_PORTFOLIO_URL/talks)
-* **Certificados:** [GitHub repo](https://github.com/USERNAME/certificados)
-
----
+![PyTest](https://img.shields.io/badge/PyTest-000) ![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions)
 
 ## 🧭 O que estou fazendo agora
 
 * Construindo **features** do *Freelancer App* (serviços, agenda, pagamento).
-* Otimizando o **Finance Tracker** (imputação de gastos, dicas personalizadas).
-* Estudando **estratégias de dados** (feature engineering, balanceamento, validação) e **arquitetura limpa**.
+* Criando o site **Basic Calc's** (imputação de gastos, dicas personalizadas).
 
 ---
 
@@ -90,23 +79,7 @@ GUIDE RÁPIDO
 
 * 💼 **LinkedIn:** [[linkedin.com/in/YOUR\_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)](https://www.linkedin.com/in/mayron-p%C3%A1dua-69613724b/)
 * ✉️ **Email:** [YOUR\_EMAIL](mailto:mayrogermann@gmail.com)
-* 🌐 **Portfólio:** [YOUR\_PORTFOLIO\_URL](Em breve.)
-
----
-
-## 📈 Métricas (autoatualizadas)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayrongermann&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayrongermann&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayrongermann&theme=transparent" alt="GitHub Streak" />
-</p>
-
----
+* 🌐 **Portfólio:** (Em breve.)
 
 ## 🧩 Extras (opcional)
 
