@@ -88,9 +88,9 @@ GUIDE RÁPIDO
 
 ## 🤝 Vamos conversar
 
-* 💼 **LinkedIn:** [linkedin.com/in/YOUR\_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
-* ✉️ **Email:** [YOUR\_EMAIL](mailto:YOUR_EMAIL)
-* 🌐 **Portfólio:** [YOUR\_PORTFOLIO\_URL](https://YOUR_PORTFOLIO_URL)
+* 💼 **LinkedIn:** [[linkedin.com/in/YOUR\_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)](https://www.linkedin.com/in/mayron-p%C3%A1dua-69613724b/)
+* ✉️ **Email:** [YOUR\_EMAIL](mailto:mayrogermann@gmail.com)
+* 🌐 **Portfólio:** [YOUR\_PORTFOLIO\_URL](Em breve.)
 
 ---
 
