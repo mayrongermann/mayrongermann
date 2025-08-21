@@ -1,8 +1,9 @@
 <div align="center">
-<img align="right" alt="Coding" width="600" src="github-header-banner.png">
-
+  <img alt="Coding" width="600" src="github-header-banner.png">
 </div>
+
 <br/><br/>
+
 ---
 ### 👨‍💻 Sobre Mim
 
