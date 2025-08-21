@@ -1,16 +1,77 @@
-<h1 align="center">Hi 👋, I'm Mayron</h1>
-<h3 align="center">Desenveloper | Programmer | Full-Stack</h3>
+<div align="center">
+  
+<img align="right" alt="Coding" width="400" src="add your link here">
 
-- 🔭 I’m currently working on [BasicCalc's](https://github.com/mayrongermann/basiccalc)
+  <br/>
 
-- 🌱 I’m currently learning **Frameworks, C#, TypeScript**
+  <h1>Olá, eu sou o Mayron Germann! 👋</h1>
+  <h3>Desenvolvedor de Software Full-Stack</h3>
+  
+  <p align="center">
+    Apaixonado por programação e pela criação de soluções que resolvem problemas reais. <br/> 
+    Constantemente aprendendo e evoluindo no mundo da tecnologia.
+  </p>
 
-- 📫 How to reach me **mayrongermann@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayron-p%c3%a1dua-69613724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayron-p%c3%a1dua-69613724b/" height="30" width="40" /></a>
+---
+
+### 👨‍💻 Sobre Mim
+
+- 🚀 Atualmente, estou focado no meu projeto **[BasicCalc's](https://github.com/mayrongermann/basiccalc)**, aprimorando minhas habilidades e construindo uma ferramenta útil.
+- 📚 Aprofundando meus conhecimentos em **C#, TypeScript** e explorando novos **Frameworks** para otimizar meu desenvolvimento.
+- 💬 Aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
+- 📫 Você pode me encontrar no e-mail: **mayrongermann@gmail.com**
+
+---
+
+### 🛠️ Minha Stack de Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,cs,js,react,nodejs,express,flutter,dart,java,python,docker,git,mongodb,mysql&perline=7" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<details align="center">
+  <summary>Clique para ver todas as tecnologias com que trabalho</summary>
+  <br/>
+  <p><b>Linguagens:</b> TypeScript, JavaScript, C#, C++, C, Python, Java, Kotlin, Dart, HTML, CSS</p>
+  <p><b>Frontend:</b> React, Flutter</p>
+  <p><b>Backend:</b> Node.js, Express</p>
+  <p><b>Bancos de Dados:</b> MongoDB, MySQL, Firebase</p>
+  <p><b>Game Dev:</b> Unity, Unreal Engine</p>
+  <p><b>Ferramentas & DevOps:</b> Git, Docker, Linux, Selenium, Android Studio</p>
+</details>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  
+  <a href="https://github.com/mayrongermann">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayrongermann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayrongermann&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  
+</div>
+
+<p align="center">
+  <a href="https://github.com/mayrongermann">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayrongermann&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### 🔗 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/mayron-pádua-69613724b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mayrongermann@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
