@@ -3,9 +3,6 @@
 <img align="right" alt="Coding" width="400" src="github-header-banner.png">
 
   <br/>
-
-  <h1>Olá, eu sou o Mayron Germann! 👋</h1>
-  <h3>Desenvolvedor de Software Full-Stack</h3>
   
   <p align="center">
     Apaixonado por programação e pela criação de soluções que resolvem problemas reais. <br/> 
