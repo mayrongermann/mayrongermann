@@ -1,13 +1,7 @@
 <div align="center">
-  
-<img align="right" alt="Coding" width="400" src="github-header-banner.png">
+<img align="right" alt="Coding" width="600" src="github-header-banner.png">
 
   <br/>
-  
-  <p align="center">
-    Apaixonado por programação e pela criação de soluções que resolvem problemas reais. <br/> 
-    Constantemente aprendendo e evoluindo no mundo da tecnologia.
-  </p>
 
 </div>
 
