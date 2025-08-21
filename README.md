@@ -1,6 +1,6 @@
 <div align="center">
   
-<img align="right" alt="Coding" width="400" src="add your link here">
+<img align="right" alt="Coding" width="400" src="github-header-banner.png">
 
   <br/>
 
@@ -51,17 +51,10 @@
 <div align="center">
   
   <a href="https://github.com/mayrongermann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayrongermann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayrongermann&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   
 </div>
-
-<p align="center">
-  <a href="https://github.com/mayrongermann">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayrongermann&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 
