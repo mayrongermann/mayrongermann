@@ -1,12 +1,9 @@
 <div align="center">
 <img align="right" alt="Coding" width="600" src="github-header-banner.png">
 
-  <br/>
-
 </div>
-
+<br/><br/>
 ---
-
 ### 👨‍💻 Sobre Mim
 
 - 🚀 Atualmente, estou focado no meu projeto **[BasicCalc's](https://github.com/mayrongermann/basiccalc)**, aprimorando minhas habilidades e construindo uma ferramenta útil.
