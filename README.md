@@ -1,114 +1,14 @@
-<!--
-GUIDE RÁPIDO
-1) PROCURE e substitua: USERNAME → seu usuário GitHub; YOUR_NAME → seu nome; YOUR_EMAIL → seu email; YOUR_LINKEDIN → seu slug do LinkedIn; YOUR_PORTFOLIO_URL → seu site/portfólio.
-2) Apague as seções que não fizerem sentido pra você.
-3) Remova comentários (como este) quando terminar.
-4) PINE este repositório com nome "USERNAME" para virar seu perfil público.
--->
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h1 align="center">👋 Olá, eu sou o YOUR_NAME</h1>
-<p align="center">Desenvolvedor(a) Full Stack | Python • JavaScript/TypeScript • SQL | Dados & IA | Mobile & Web</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayrongermann" alt="mayrongermann" /></a> </p>
 
-<p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Online-0A66C2?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/USERNAME?tab=repositories" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/maik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayron-p%c3%a1dua-69613724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayron-p%c3%a1dua-69613724b/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-## 📌 TL;DR
-
-* 🔭 Atualmente trabalhando/estudando: **Full Stack (React, Node.js, MongoDB)** e **Python + SQL** para dados/IA.
-* 🧪 Gosto de construir **MVPs**, integrar APIs e **automatizações**.
-* 🎯 Objetivo: criar soluções simples, escaláveis e com **UX redonda**.
-* 🧰 Techs que curto: React • Node • Express • MongoDB • Python • Pandas • FastAPI • Docker • Firebase • RabbitMQ.
-* 💬 Pergunte-me sobre: **estratégia de portfólio**, **boas práticas**, **Clean Code**, **tests**.
-
----
-
-## 🚀 Destaques (Projetos Principais)
-
-> Troque os exemplos pelos seus projetos e adicione prints/gifs quando puder.
-
-* **Finance Tracker (Web/Mobile)**
-  App de gestão financeira pessoal com categorias, metas e análises.
-  **Stack:** React • Node.js • MongoDB • Firebase Auth
-  **Links:** [Código](https://github.com/USERNAME/finance-tracker) · [Demo](https://YOUR_PORTFOLIO_URL/finance)
-
-* **Freelancer App – MVP**
-  Plataforma para conectar clientes a profissionais locais (agendamento, chat e rating).
-  **Stack:** TypeScript • React Native • Node.js • MongoDB
-  **Links:** [Código](https://github.com/USERNAME/freelancer-app) · [Pitch](https://YOUR_PORTFOLIO_URL/freelancer)
-
-* **DataLab – ML & Insights**
-  Notebooks com estudos de **imputação**, **classificação** e **clusterização** (Wine, Heart Failure, California Housing).
-  **Stack:** Python • Scikit-learn • Pandas • Matplotlib
-  **Links:** [Repositório](https://github.com/USERNAME/datalab-ml)
-
-> Outros: Robótica com **MRTduino**, automações com **Selenium**, scripts de **web scraping** e **ETL**.
-
----
-
-## 🧱 Stack & Ferramentas
-
-**Linguagens:**
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript) ![Python](https://img.shields.io/badge/Python-000?logo=python) ![SQL](https://img.shields.io/badge/SQL-000)
-
-**Front-end:**
-![React](https://img.shields.io/badge/React-000?logo=react) ![Vite](https://img.shields.io/badge/Vite-000?logo=vite)
-
-**Back-end:**
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-000) ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
-
-**Banco & Dados:**
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase) ![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas) ![scikit-learn](https://img.shields.io/badge/scikit--learn-000?logo=scikitlearn)
-
-**Qualidade & DevOps:**
-![PyTest](https://img.shields.io/badge/PyTest-000) ![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions)
-
-## 🧭 O que estou fazendo agora
-
-* Construindo **features** do *Freelancer App* (serviços, agenda, pagamento).
-* Criando o site **Basic Calc's** (imputação de gastos, dicas personalizadas).
-
----
-
-## 🤝 Vamos conversar
-
-* 💼 **LinkedIn:** [[linkedin.com/in/YOUR\_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)](https://www.linkedin.com/in/mayron-p%C3%A1dua-69613724b/)
-* ✉️ **Email:** [YOUR\_EMAIL](mailto:mayrogermann@gmail.com)
-* 🌐 **Portfólio:** (Em breve.)
-
-## 🧩 Extras (opcional)
-
-<details>
-  <summary>🏆 Troféus</summary>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=mayrongermann&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
-  </p>
-</details>
-
-<details>
-  <summary>🗂 Repos favoritos</summary>
-
-* [finance-tracker](https://github.com/USERNAME/finance-tracker) – app de finanças pessoais.
-* [freelancer-app](https://github.com/mayrongermann/freelancer-app) – marketplace de serviços.
-* [datalab-ml](https://github.com/mayrongermann/datalab-ml) – notebooks de ML.
-
-</details>
-
-<details>
-  <summary>🎮 Curiosidades</summary>
-
-* Apaixonado(a) por <ins>engenharia de software</ins> & <ins>robótica educacional</ins>.
-* Gosto de criar **bots/automação** e **mini-jogos em Python**.
-* Em busca de **oportunidades** para colaborar em projetos open-source.
-
-</details>
-
-
-<p align="center">
-  <sub>Feito com 💙 e foco em clareza, consistência e evolução contínua.</sub>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayrongermann&show_icons=true&locale=en&layout=compact" alt="mayrongermann" /></p>
