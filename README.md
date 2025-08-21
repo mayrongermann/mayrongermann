@@ -11,7 +11,17 @@
 - 📚 Aprofundando meus conhecimentos em **C#, TypeScript** e explorando novos **Frameworks** para otimizar meu desenvolvimento.
 - 💬 Aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
 - 📫 Você pode me encontrar no e-mail: **mayrongermann@gmail.com**
+---
 
+### 🌐 Portfólio
+
+<div align="center">
+  <a href="https://mayrongermann.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-00C896?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfólio"/>
+  </a>
+</div>
+
+---
 ---
 
 ### 🛠️ Minha Stack de Tecnologias
