@@ -7,7 +7,7 @@
 ---
 ### 👨‍💻 Sobre Mim
 
-- 🚀 Atualmente, estou focado no meu projeto **[BasicCalc's](https://github.com/mayrongermann/basiccalc)**, aprimorando minhas habilidades e construindo uma ferramenta útil.
+- 🚀 Atualmente, estou focado no meu projeto **[BasicCalc's](https://mayrongermann.github.io/basiccalc/)**, aprimorando minhas habilidades e construindo uma ferramenta útil.
 - 📚 Aprofundando meus conhecimentos em **C#, TypeScript** e explorando novos **Frameworks** para otimizar meu desenvolvimento.
 - 💬 Aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
 - 📫 Você pode me encontrar no e-mail: **mayrongermann@gmail.com**
