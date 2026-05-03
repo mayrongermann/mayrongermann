@@ -63,10 +63,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
----
-
 ### 🚀 Latest Release
 
 <div align="center">
