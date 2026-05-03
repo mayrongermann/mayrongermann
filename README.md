@@ -25,7 +25,7 @@
 ### 🌐 Portfolio
 
 <div align="center">
-  <a href="https://mayrongermann.github.io/portifolio/" target="_blank">
+  <a href="https://mayrongermann.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
