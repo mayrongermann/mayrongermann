@@ -2,29 +2,37 @@
   <img alt="Coding" width="600" src="git.gif">
 </div>
 
-<br/><br/>
+<br/>
+
+<h1 align="center">Mayron</h1>
+
+<p align="center">
+  Developer focused on building useful and well-structured applications.
+</p>
 
 ---
-### 👨‍💻 Sobre Mim
 
-- 🚀 Atualmente, estou focado no meu projeto **[BasicCalc's](https://mayrongermann.github.io/basiccalc/)**, aprimorando minhas habilidades e construindo uma ferramenta útil.
-- 📚 Aprofundando meus conhecimentos em **C#, TypeScript** e explorando novos **Frameworks** para otimizar meu desenvolvimento.
-- 💬 Aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos!
-- 📫 Você pode me encontrar no e-mail: **mayrongermann@gmail.com**
+### 👨‍💻 About
+
+- 🚀 Currently working on **Samplefy**
+- 💻 Main stack: **C#** and **TypeScript**
+- ⚙️ I like building things that work well in real scenarios
+- 🧠 Always improving how I structure, organize and scale my code
+- 🤝 Open to opportunities and collaborations
+
 ---
 
-### 🌐 Portfólio
+### 🌐 Portfolio
 
 <div align="center">
   <a href="https://mayrongermann.github.io/portifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-00C896?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
 ---
----
 
-### 🛠️ Minha Stack de Tecnologias
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,31 +41,39 @@
 </p>
 
 <details align="center">
-  <summary>Clique para ver todas as tecnologias com que trabalho</summary>
+  <summary><b>More</b></summary>
   <br/>
-  <p><b>Linguagens:</b> TypeScript, JavaScript, C#, C++, C, Python, Java, Kotlin, Dart, HTML, CSS</p>
-  <p><b>Frontend:</b> React, Flutter</p>
-  <p><b>Backend:</b> Node.js, Express</p>
-  <p><b>Bancos de Dados:</b> MongoDB, MySQL, Firebase</p>
-  <p><b>Game Dev:</b> Unity, Unreal Engine</p>
-  <p><b>Ferramentas & DevOps:</b> Git, Docker, Linux, Selenium, Android Studio</p>
+
+  **Languages:**  
+  TypeScript, JavaScript, C#, Python, Java  
+
+  **Frontend:**  
+  React, Flutter  
+
+  **Backend:**  
+  Node.js, Express  
+
+  **Databases:**  
+  MongoDB, MySQL  
+
+  **Tools:**  
+  Docker, Git, Linux  
+
 </details>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  
   <a href="https://github.com/mayrongermann">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayrongermann&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-  
 </div>
 
 ---
 
-### 🔗 Conecte-se Comigo
+### 🔗 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/mayron-pádua-69613724b" target="_blank">
