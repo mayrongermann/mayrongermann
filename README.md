@@ -72,7 +72,7 @@
 </div>
 
 <p align="center">
-  A simple and functional calculator built for the web.
+  A web app with multiple calculators for everyday use, including currency conversion and common calculations.
 </p>
 
 ---
