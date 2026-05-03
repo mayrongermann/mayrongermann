@@ -15,7 +15,7 @@
 ### 👨‍💻 About
 
 - 🚀 Currently working on **Samplefy**
-- 💻 Main stack: **C#** and **TypeScript**
+- 💻 Main stack: **Python** and **TypeScript**
 - ⚙️ I like building things that work well in real scenarios
 - 🧠 Always improving how I structure, organize and scale my code
 - 🤝 Open to opportunities and collaborations
@@ -65,11 +65,19 @@
 
 ### 📊 GitHub Stats
 
+---
+
+### 🚀 Latest Release
+
 <div align="center">
-  <a href="https://github.com/mayrongermann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayrongermann&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://mayrongermann.github.io/basiccalc/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-BasicCalc-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="BasicCalc"/>
   </a>
 </div>
+
+<p align="center">
+  A simple and functional calculator built for the web.
+</p>
 
 ---
 
